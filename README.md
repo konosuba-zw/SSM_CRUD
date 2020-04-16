@@ -16,3 +16,4 @@ rest风格的URI<br>
 前端框架：BootStrap<br>
 项目依赖管理：maven<br>
 分页：pagehelper<br>
+逆向工程：Mybatis Generator
